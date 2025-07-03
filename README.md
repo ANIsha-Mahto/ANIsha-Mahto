@@ -1,4 +1,4 @@
-<img src="profile_banner.png" alt="GitHub Banner" style="width:100%;" />
+<img src="profile_banner.png" alt="GitHub Banner" width="800" />
 
 
 <h1 align="center">
@@ -29,7 +29,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ANIsha-Mahto&show_icons=true&theme=radical" alt="Anisha's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ANIsha-Mahto&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIsha-Mahto&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
