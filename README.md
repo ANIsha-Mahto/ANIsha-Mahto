@@ -1,4 +1,4 @@
-<img src="A_profile_banner_image_for_a_GitHub_user_named_ANI.png" alt="GitHub Banner" style="width:100%;" />
+<img src="profile_banner.png" alt="GitHub Banner" style="width:100%;" />
 
 
 <h1 align="center">
