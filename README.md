@@ -1,4 +1,7 @@
-<img src="profile_banner.png" alt="GitHub Banner" width="800" />
+<p align="center">
+  <img src="profile_banner.png" alt="GitHub Banner" style="max-width: 100%; height: auto;" width="1000" />
+</p>
+
 
 
 <h1 align="center">
