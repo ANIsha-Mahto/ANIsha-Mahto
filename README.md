@@ -12,7 +12,7 @@
 
 <h3 align="center">👨‍💻 Passionate Developer| ML Enthusiast| From 'Hello World!' To Real-World Projects.</h3>
 
-- 🌱 I’m currently learning **Web development and along side doing DSA(c++)**
+- 🌱 I’m currently learning **Web development and along side doing DSA**
 
 - 📫 How to reach me **anisha040mahto@gmail.com**
 
